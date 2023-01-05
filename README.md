@@ -12,7 +12,7 @@
   
   
  ### About
- SKF Lab is a project from @blabla1337, Powered by OWASP, SKF-CLI is not a official release from OWASP, it's  a personal project from myself.
+ SKF Lab is a project from @blabla1337, Powered by OWASP, SKF-CLI is not a official release from OWASP, it's  a personal project from myself. ( No longer Supporting the project cause demo.skflabs changed it's domain and added authnication)
  
  <br/>
  <br/>
