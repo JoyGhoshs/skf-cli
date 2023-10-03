@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/JoyGhoshs/skf-cli"><img src="https://raw.githubusercontent.com/blabla1337/skf-labs/master/python/CSRF-weak/static/img/logo.svg" alt="SKF-CLI"></a>
   <br>
-  SKF-CLI
+  SKF-CLI [Discontinued]
   <br>
   </h1>
   
